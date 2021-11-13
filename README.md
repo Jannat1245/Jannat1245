@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jannat1245
-- 👀 I’m interested inlearning coding in general
+- 👀 I’m interested in learning coding in general
 - 🌱 I’m still trying to find recourses but i will propbably start with python or java or php
 - 💞️ I’m looking to collaborate on projects and ask questions for sure 0-0
 - 📫 How to reach me on discord (Heavens#7695)
